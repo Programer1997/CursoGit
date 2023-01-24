@@ -1,6 +1,6 @@
 
 
-let name = "martin melchor";
+
 let arrayName=[];
 let array2=[];
 

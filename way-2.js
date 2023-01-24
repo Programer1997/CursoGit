@@ -15,3 +15,5 @@ function capitalize (str) {
 }
 
 console.log(capitalize ("a short sentence"));
+console.log(capitalize ("a short sentence"));
+console.log(capitalize ("a short sentence"));
