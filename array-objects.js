@@ -1,4 +1,4 @@
-let arr = [1,2,3,4,5,6,7];
+let arr = [true,true,false,true,false,true,true];
 
 arr.forEach(
     
@@ -9,6 +9,8 @@ arr.forEach(
 
 );
 
-arr.map(function (element,index){
+/*arr.map(function (element,index){
 
-} );
+} );*/
+
+
