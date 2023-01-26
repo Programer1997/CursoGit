@@ -27,6 +27,8 @@ console.log(newArray);*/
 
 //////////////////////////////////////////////////
 /*let countT=0;
+
+
 arr.forEach(
     
 function (state,possition){
